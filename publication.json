@@ -7,11 +7,11 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "name": "vivliostyle-counter-experiment",
   "author": "Takuya \"Mura-Mi\" Murakami <mura.mi.nantoka@gmail.com>",
-  "dateModified": "2024-10-23T13:48:03.098Z",
+  "dateModified": "2024-10-23T13:59:01.437Z",
   "readingOrder": [
     {
       "url": "manuscript.html",
-      "name": "吾輩は猫である。"
+      "name": "Test Script"
     }
   ],
   "resources": [],
